@@ -1,0 +1,5 @@
+User: Mark Chen
+Date & Time: 2025-04-22 22:53:22
+QR Code: 263352
+Class Detected: cans
+Estimated Time till Expiry: 90 days
