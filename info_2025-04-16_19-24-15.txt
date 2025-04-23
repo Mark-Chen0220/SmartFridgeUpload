@@ -1,4 +1,0 @@
-User: Mark Chen
-Date & Time: 2025-04-16 19:24:15
-Class Detected: drink
-Estimated Time till Expiry: 1 days
