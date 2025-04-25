@@ -1,0 +1,6 @@
+User: Mark Chen
+Date & Time: 2025-04-25 21:55:44
+QR Code: iotdahilsm
+Class Detected: bottle
+Estimated Time till Expiry: 30 days
+Confidence: 0.81
